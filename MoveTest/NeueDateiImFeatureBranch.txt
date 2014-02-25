@@ -1,2 +1,3 @@
 Tri tra tralala eine neue Datei im Branch
 Und noch eine weitere Zeile dazu.
+Eine weitere Änderung im Master Branch. "ZweiterBranch" ist bereits gemerged, aber "DritterBranch" noch nicht.
