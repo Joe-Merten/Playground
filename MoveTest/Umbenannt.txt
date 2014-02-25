@@ -4,3 +4,5 @@ Diese Datei heisst »Datei-zum-umbenennen.txt und liegt im Root Directory des Re
 So, nachdem der initiale commit erledigt ist, füge ich eine weitere Zeile an.
 
 Mittlerweile wurde die Datei umbenannt (nur 1 commit auf "Umbenannt.txt") -  und jetzt hänge ich erneut eine Zeile an's Ende.
+
+FeatureBranch: Zeile in der vorhandenen Datei angefügt
