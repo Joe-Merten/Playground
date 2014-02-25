@@ -6,3 +6,7 @@ So, nachdem der initiale commit erledigt ist, füge ich eine weitere Zeile an.
 Mittlerweile wurde die Datei umbenannt (2x commit dafür) und jetzt mit dem neuen Namen "SecondFile.txt" hänge ich erneut eine Zeile an's Ende.
 
 Änderung in ZweiterBranch.
+
+So, den ZweiterBranch hatte ich ja nun schon vor einigen Commits gemerged (aber nicht gelöscht).
+Den DrittenBranch habe ich mittlerweile ebenfalls gemerged - den habe ich nunmehr auch gelöscht.
+Und jetzt noch mal diese Änderung in "ZweiterBranch". Mal gucken wie das in der Grafik aussieht.
