@@ -1,0 +1,8 @@
+Hier eine Datei, frisch angelegt um damit zu experimentieren.
+Diese Datei heisst MucBefore.txt und liegt im Verzeichnis MoveTest des Repository Playground.
+So, nachdem der initiale commit erledigt ist, füge ich eine weitere Zeile an.
+
+Jetzt wurde folgendes gemacht:
+  git mv MucBefore.txt MucAfter.txt
+  dann dieser Text hier eingefügt und anschliessend
+  git commit MucBefore.txt MucAfter.txt -m"Umbenennung von MucBefore.txt nach MucAfter.txt aber mit Änderung des content"
