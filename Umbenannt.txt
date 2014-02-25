@@ -2,3 +2,5 @@ Hier eine Datei, frisch angelegt um damit zu experimentieren.
 Diese Datei heisst »Datei-zum-umbenennen.txt und liegt im Root Directory des Repository Playground.
 
 So, nachdem der initiale commit erledigt ist, füge ich eine weitere Zeile an.
+
+Mittlerweile wurde die Datei umbenannt (nur 1 commit auf "Umbenannt.txt") -  und jetzt hänge ich erneut eine Zeile an's Ende.
