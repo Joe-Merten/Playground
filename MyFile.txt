@@ -1,2 +1,4 @@
 Hier eine Datei, frisch angelegt um damit zu experimentieren.
 Diese Datei heisst MyFile.txt und liegt im Root Directory des Repository Playground.
+
+So, nachdem der initiale commit erledigt ist, füge ich eine weitere Zeile an.
