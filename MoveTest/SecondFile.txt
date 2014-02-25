@@ -4,3 +4,5 @@ Diese Datei heisst MyFile.txt und liegt im Root Directory des Repository Playgro
 So, nachdem der initiale commit erledigt ist, füge ich eine weitere Zeile an.
 
 Mittlerweile wurde die Datei umbenannt (2x commit dafür) und jetzt mit dem neuen Namen "SecondFile.txt" hänge ich erneut eine Zeile an's Ende.
+
+Änderung in ZweiterBranch.
