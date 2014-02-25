@@ -6,3 +6,11 @@ Jetzt wurde folgendes gemacht:
   git mv MucBefore.txt MucAfter.txt
   dann dieser Text hier eingefügt und anschliessend
   git commit MucBefore.txt MucAfter.txt -m"Umbenennung von MucBefore.txt nach MucAfter.txt aber mit Änderung des content"
+
+Ergebnis:
+  $ git commit MucBefore.txt MucAfter.txt -m"Umbenennung von MucBefore.txt nach MucAfter.txt aber mit Änderung des content"
+  [master d457899] Umbenennung von MucBefore.txt nach MucAfter.txt aber mit Änderung des content
+   2 files changed, 8 insertions(+), 3 deletions(-)
+   create mode 100644 MoveTest/MucAfter.txt
+   delete mode 100644 MoveTest/MucBefore.txt
+-> also offenbar kein rename, somit funktioniert auch kein Blame
