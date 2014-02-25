@@ -1,2 +1,3 @@
 Hier eine Datei, frisch angelegt um damit zu experimentieren.
 Diese Datei heisst MucBefore.txt und liegt im Verzeichnis MoveTest des Repository Playground.
+So, nachdem der initiale commit erledigt ist, füge ich eine weitere Zeile an.
