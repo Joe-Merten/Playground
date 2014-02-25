@@ -1,2 +1,3 @@
 Hier eine Datei, frisch angelegt um damit zu experimentieren.
 Diese Datei heisst CopySource.txt und liegt im Verzeichnis MoveTest des Repository Playground.
+2nd Commit: Mit dieser Datei möchte ich testen, ob beim Kopieren einer Datei die Historie der Quelle auch beim Ziel erhalten bleibt.
