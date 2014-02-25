@@ -1,3 +1,4 @@
 Eine neue Datei im vierten Branch.
 Tri tral tralala
 Eine Zeile dazu
+Den vierten Branch werde ich in den Master mergen und dann wieder entfernen, sodass der Remote Git Server den Branch also nie zu sehen bekommt.
